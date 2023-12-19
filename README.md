@@ -8,11 +8,11 @@
 
 <h2 align="left">About me</h2>
 
+- 💼 Education: **Computer Science Student**
+
 - 🔭 I’m currently working on [Task-tracking-project](https://github.com/ericondieki/Task-tracking-project)
 
 - 🌱 I’m currently learning: **MongoDB**
-
-- 💼 Education: **Computer Science Student**
 
 - 📫 How to reach me: **ondiekidaystar@gmail.com**
 
