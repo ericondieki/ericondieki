@@ -6,11 +6,19 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-###
+- 🔭 I’m currently working on [Task-tracking-project](https://github.com/ericondieki/Task-tracking-project)
 
-<p align="left">* Computer Science Student<br>* Full Stack Developer<br>* Currently Working on: task_tracking-project</p>
+- 🌱 I’m currently learning: **MongoDB**
+
+- 💼 Education: **Computer Science Student**
+
+- 📫 How to reach me: **ondiekidaystar@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ###
 
