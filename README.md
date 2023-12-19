@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick Getange</h1>
-###
+
 
 <h3 align="center">An eager and capable developer from Nairobi, Kenya</h3>
 
