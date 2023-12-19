@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h2 align="left">About me</h2>
 
 - 🔭 I’m currently working on [Task-tracking-project](https://github.com/ericondieki/Task-tracking-project)
 
@@ -16,9 +16,6 @@
 
 - 📫 How to reach me: **ondiekidaystar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 ###
 
