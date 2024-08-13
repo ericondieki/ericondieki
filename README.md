@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Task-tracking-project](https://github.com/ericondieki/Task-tracking-project)
 
-- 🌱 I’m currently learning: **MongoDB**
+- 🌱 I’m currently learning: **Unreal Engine C++**
 
 - 📫 How to reach me: **ondiekidaystar@gmail.com**
 
