@@ -7,11 +7,9 @@
 
 <h2 align="left">About me</h2>
 
-- 💼 Education: **Computer Science Student**
+- 💼 Education: **Computer Science Graduate**
 
-- 🔭 I’m currently working on [Task-tracking-project](https://github.com/ericondieki/Task-tracking-project)
-
-- 🌱 I’m currently learning: **Unreal Engine C++**
+- 🌱 I’m currently learning: **GD Script**
 
 - 📫 How to reach me: **ondiekidaystar@gmail.com**
 
